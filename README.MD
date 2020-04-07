@@ -12,11 +12,19 @@
 
 > <img width="200" src="https://user-images.githubusercontent.com/11828206/78096156-8733c280-740b-11ea-903e-f19739cad081.png">
 
-## 3 播放界面
+## 3 使用界面
 
+### 3.1 主页
+> <img src="./assets/main.png" >
+
+### 3.2 播放
 > <img src="./assets/show.jpg" >
 
+### 3.3 反馈
+> <img src="./assets/ques.png" >
 
+### 3.4 关于我们
+> <img src="./assets/about.png" >
 
 ## 4 联系我们
 - 邮箱
