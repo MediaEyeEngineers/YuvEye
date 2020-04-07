@@ -19,7 +19,9 @@
 
 
 ## 4 联系我们
-- 邮箱 : porschegt23@foxmail.com (前缀[YuvEye]xxx)
+- 邮箱
+   - porschegt23@foxmail.com
+   - redknot@126.com
 - 技术支持群 : 814462428
 
 
