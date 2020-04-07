@@ -21,10 +21,10 @@
 > <img src="./assets/show.jpg" >
 
 ### 3.3 反馈
-> <img src="./assets/ques.png" >
+> <img width="300" src="./assets/ques.png" >
 
 ### 3.4 关于我们
-> <img src="./assets/about.png" >
+> <img width="300" src="./assets/about.png" >
 
 ## 4 联系我们
 - 邮箱
