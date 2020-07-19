@@ -4,7 +4,8 @@
 主要用途：播放和分析YUV文件，支持多种格式、多个文件输入               
 运行环境：MacOS、Windows             
 免费                   
-> <img width="100" src="./assets/logo.png">             
+
+> <img width="300" src="./assets/logo.png">             
 
 下载地址：http://realrace.cn/#/YuvEye
 
